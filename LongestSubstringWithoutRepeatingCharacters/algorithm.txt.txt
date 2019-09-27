@@ -1,1 +1,1 @@
-Bruth force 알고리즘
+1. Bruth Force방식으로 대입
