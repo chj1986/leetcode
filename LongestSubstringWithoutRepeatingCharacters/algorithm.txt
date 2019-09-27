@@ -1,0 +1,2 @@
+1. Bruth Force방식으로 대입
+TO-DO : Sliding window concept!

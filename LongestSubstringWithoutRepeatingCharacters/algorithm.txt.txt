@@ -1,1 +1,0 @@
-1. Bruth Force방식으로 대입
